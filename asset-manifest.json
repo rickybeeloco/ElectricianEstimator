@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ElectricianEstimator/static/css/main.6d555915.chunk.css",
+    "main.js": "/ElectricianEstimator/static/js/main.792fa5b3.chunk.js",
+    "main.js.map": "/ElectricianEstimator/static/js/main.792fa5b3.chunk.js.map",
+    "runtime-main.js": "/ElectricianEstimator/static/js/runtime-main.22c3805d.js",
+    "runtime-main.js.map": "/ElectricianEstimator/static/js/runtime-main.22c3805d.js.map",
+    "static/js/2.c367cba6.chunk.js": "/ElectricianEstimator/static/js/2.c367cba6.chunk.js",
+    "static/js/2.c367cba6.chunk.js.map": "/ElectricianEstimator/static/js/2.c367cba6.chunk.js.map",
+    "index.html": "/ElectricianEstimator/index.html",
+    "precache-manifest.87861b20654db91f0dd4b62ab0b0ae1f.js": "/ElectricianEstimator/precache-manifest.87861b20654db91f0dd4b62ab0b0ae1f.js",
+    "service-worker.js": "/ElectricianEstimator/service-worker.js",
+    "static/css/main.6d555915.chunk.css.map": "/ElectricianEstimator/static/css/main.6d555915.chunk.css.map",
+    "static/js/2.c367cba6.chunk.js.LICENSE.txt": "/ElectricianEstimator/static/js/2.c367cba6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22c3805d.js",
+    "static/js/2.c367cba6.chunk.js",
+    "static/css/main.6d555915.chunk.css",
+    "static/js/main.792fa5b3.chunk.js"
+  ]
+}
